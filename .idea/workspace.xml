@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f82a854-ed79-422c-84e7-c3bb7e704c5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogPage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/models/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/PostRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtos/requests/CreatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/CommentRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/PostRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/services/PostServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IoG12PXSQZH8aknohKzSsmTq8y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ibrahim Gana Malgwi/IdeaProjects/blog-page&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="blogPage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.PostRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.PostServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostServiceImplTest.viewPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.PostServiceImplTest" />
+      <option name="METHOD_NAME" value="viewPostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PostServiceImplTest.viewPostTest" />
+        <item itemvalue="JUnit.PostRepositoryImplTest" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest" />
+        <item itemvalue="JUnit.PostServiceImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f82a854-ed79-422c-84e7-c3bb7e704c5b" name="Changes" comment="" />
+      <created>1670840305570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670840305570</updated>
+      <workItem from="1670840309085" duration="1226000" />
+      <workItem from="1670842196184" duration="11609000" />
+      <workItem from="1670862989472" duration="653000" />
+      <workItem from="1670898632465" duration="659000" />
+      <workItem from="1670900126126" duration="110000" />
+      <workItem from="1670911660659" duration="2744000" />
+      <workItem from="1670914716002" duration="10265000" />
+      <workItem from="1670934965879" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
