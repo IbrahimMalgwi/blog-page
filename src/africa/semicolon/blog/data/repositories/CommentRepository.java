@@ -1,6 +1,6 @@
-package data.repositories;
+package africa.semicolon.blog.data.repositories;
 
-import data.models.Comment;
+import africa.semicolon.blog.data.models.Comment;
 
 import java.util.List;
 

@@ -1,9 +1,9 @@
-package services;
+package africa.semicolon.blog.services;
 
-import data.models.Post;
-import data.repositories.PostRepository;
-import data.repositories.PostRepositoryImpl;
-import dtos.requests.CreatePostRequest;
+import africa.semicolon.blog.data.models.Post;
+import africa.semicolon.blog.data.repositories.PostRepository;
+import africa.semicolon.blog.data.repositories.PostRepositoryImpl;
+import africa.semicolon.blog.dtos.requests.CreatePostRequest;
 
 import java.util.List;
 

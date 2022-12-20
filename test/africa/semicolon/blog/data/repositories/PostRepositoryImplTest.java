@@ -1,6 +1,6 @@
-package data.repositories;
+package africa.semicolon.blog.data.repositories;
 
-import data.models.Post;
+import africa.semicolon.blog.data.models.Post;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

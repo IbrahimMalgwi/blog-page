@@ -1,16 +1,24 @@
-import controllers.PostController;
-import dtos.requests.CreatePostRequest;
+package africa.semicolon.blog;
+
+import africa.semicolon.blog.controllers.PostController;
+import africa.semicolon.blog.dtos.requests.CreatePostRequest;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import javax.swing.*;
 import java.util.Scanner;
 
+@SpringBootApplication
 public class Main {
     private static Scanner scanner = new Scanner(System.in);
     private static PostController postController = new PostController();
 
+
     public static void main(String[] args) {
-        displayMainMenu();
+        SpringApplication.run(Main.class, args);
+//        displayMainMenu();
     }
+
 
     private static void displayMainMenu() {
         String mainMenu = """

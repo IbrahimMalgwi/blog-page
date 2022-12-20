@@ -1,7 +1,7 @@
-package services;
+package africa.semicolon.blog.services;
 
-import data.models.Post;
-import dtos.requests.CreatePostRequest;
+import africa.semicolon.blog.data.models.Post;
+import africa.semicolon.blog.dtos.requests.CreatePostRequest;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

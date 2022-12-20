@@ -1,4 +1,4 @@
-package dtos.requests;
+package africa.semicolon.blog.dtos.requests;
 
 public class CreatePostRequest {
     private String title;

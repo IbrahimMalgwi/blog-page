@@ -1,4 +1,4 @@
-package data.models;
+package africa.semicolon.blog.data.models;
 
 public class Comment {
     private String commenterName;

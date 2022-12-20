@@ -1,4 +1,4 @@
-package data.models;
+package africa.semicolon.blog.data.models;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
